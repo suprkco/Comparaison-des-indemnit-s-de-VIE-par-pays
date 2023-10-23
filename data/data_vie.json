@@ -1,0 +1,1668 @@
+{
+    "AFGHANISTAN": {
+        "PAYS": "AFGHANISTAN",
+        "PAYS CODE": "10 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "4 733,00 €",
+        "INDEMNITE TOTALE": "5 493,57 €"
+    },
+    "AFRIQUE DU SUD": {
+        "PAYS": "AFRIQUE DU SUD (autres villes)",
+        "PAYS CODE": "931 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 224,83 €",
+        "INDEMNITE TOTALE": "1 985,40 €"
+    },
+    "AFRIQUE DU SUD (Johannesburg, Pretoria)": {
+        "PAYS": "AFRIQUE DU SUD (Johannesburg, Pretoria)",
+        "PAYS CODE": "930 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 348,76 €",
+        "INDEMNITE TOTALE": "2 109,33 €"
+    },
+    "ALBANIE": {
+        "PAYS": "ALBANIE",
+        "PAYS CODE": "15 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 953,02 €",
+        "INDEMNITE TOTALE": "2 713,59 €"
+    },
+    "ALGERIE (Annaba, Constantine)": {
+        "PAYS": "ALGERIE (Annaba, Constantine)",
+        "PAYS CODE": "21 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 662,99 €",
+        "INDEMNITE TOTALE": "2 423,56 €"
+    },
+    "ALGERIE": {
+        "PAYS": "ALGERIE (autres villes)",
+        "PAYS CODE": "20 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 599,06 €",
+        "INDEMNITE TOTALE": "2 359,63 €"
+    },
+    "ALLEMAGNE": {
+        "PAYS": "ALLEMAGNE (autres villes)",
+        "PAYS CODE": "25 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 865,43 €",
+        "INDEMNITE TOTALE": "2 626,00 €"
+    },
+    "ALLEMAGNE (Berlin)": {
+        "PAYS": "ALLEMAGNE (Berlin)",
+        "PAYS CODE": "33 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 973,05 €",
+        "INDEMNITE TOTALE": "2 733,62 €"
+    },
+    "ALLEMAGNE (Hambourg)": {
+        "PAYS": "ALLEMAGNE (Hambourg)",
+        "PAYS CODE": "22 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 865,43 €",
+        "INDEMNITE TOTALE": "2 626,00 €"
+    },
+    "ALLEMAGNE (Munich)": {
+        "PAYS": "ALLEMAGNE (Munich)",
+        "PAYS CODE": "24 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 019,17 €",
+        "INDEMNITE TOTALE": "2 779,74 €"
+    },
+    "ANDORRE": {
+        "PAYS": "ANDORRE",
+        "PAYS CODE": "30 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 374,06 €",
+        "INDEMNITE TOTALE": "2 134,63 €"
+    },
+    "ANGOLA": {
+        "PAYS": "ANGOLA",
+        "PAYS CODE": "35 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 964,28 €",
+        "INDEMNITE TOTALE": "3 724,85 €"
+    },
+    "ANTIGUA-ET-BARBUDA": {
+        "PAYS": "ANTIGUA-ET-BARBUDA",
+        "PAYS CODE": "38 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 793,87 €",
+        "INDEMNITE TOTALE": "2 554,44 €"
+    },
+    "ARABIE SAOUDITE": {
+        "PAYS": "ARABIE SAOUDITE",
+        "PAYS CODE": "40 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 321,93 €",
+        "INDEMNITE TOTALE": "3 082,50 €"
+    },
+    "ARGENTINE": {
+        "PAYS": "ARGENTINE",
+        "PAYS CODE": "45 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 349,88 €",
+        "INDEMNITE TOTALE": "2 110,45 €"
+    },
+    "ARMENIE": {
+        "PAYS": "ARMENIE",
+        "PAYS CODE": "46 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 009,95 €",
+        "INDEMNITE TOTALE": "2 770,52 €"
+    },
+    "AUSTRALIE": {
+        "PAYS": "AUSTRALIE (autres villes)",
+        "PAYS CODE": "50 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 101,98 €",
+        "INDEMNITE TOTALE": "2 862,55 €"
+    },
+    "AUSTRALIE (Sydney)": {
+        "PAYS": "AUSTRALIE (Sydney)",
+        "PAYS CODE": "51 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 124,18 €",
+        "INDEMNITE TOTALE": "2 884,75 €"
+    },
+    "AUTRICHE": {
+        "PAYS": "AUTRICHE",
+        "PAYS CODE": "55 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 941,60 €",
+        "INDEMNITE TOTALE": "2 702,17 €"
+    },
+    "AZERBAIDJAN": {
+        "PAYS": "AZERBAIDJAN",
+        "PAYS CODE": "60 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 623,29 €",
+        "INDEMNITE TOTALE": "2 383,86 €"
+    },
+    "BAHREIN": {
+        "PAYS": "BAHREIN",
+        "PAYS CODE": "70 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 036,70 €",
+        "INDEMNITE TOTALE": "2 797,27 €"
+    },
+    "BANGLADESH": {
+        "PAYS": "BANGLADESH",
+        "PAYS CODE": "75 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 239,57 €",
+        "INDEMNITE TOTALE": "3 000,14 €"
+    },
+    "BARBADE": {
+        "PAYS": "BARBADE",
+        "PAYS CODE": "510 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 605,04 €",
+        "INDEMNITE TOTALE": "2 365,61 €"
+    },
+    "BELGIQUE": {
+        "PAYS": "BELGIQUE",
+        "PAYS CODE": "85 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 705,73 €",
+        "INDEMNITE TOTALE": "2 466,30 €"
+    },
+    "BELIZE": {
+        "PAYS": "BELIZE",
+        "PAYS CODE": "86 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 287,28 €",
+        "INDEMNITE TOTALE": "2 047,85 €"
+    },
+    "BENIN": {
+        "PAYS": "BENIN",
+        "PAYS CODE": "240 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 398,37 €",
+        "INDEMNITE TOTALE": "2 158,94 €"
+    },
+    "BHOUTAN": {
+        "PAYS": "BHOUTAN",
+        "PAYS CODE": "89 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 076,49 €",
+        "INDEMNITE TOTALE": "2 837,06 €"
+    },
+    "BIELORUSSIE": {
+        "PAYS": "BIELORUSSIE",
+        "PAYS CODE": "92 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 893,00 €",
+        "INDEMNITE TOTALE": "2 653,57 €"
+    },
+    "BIRMANIE": {
+        "PAYS": "BIRMANIE",
+        "PAYS CODE": "90 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 797,56 €",
+        "INDEMNITE TOTALE": "3 558,13 €"
+    },
+    "BOLIVIE": {
+        "PAYS": "BOLIVIE",
+        "PAYS CODE": "95 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 551,50 €",
+        "INDEMNITE TOTALE": "2 312,07 €"
+    },
+    "BOSNIE-HERZEGOVINE": {
+        "PAYS": "BOSNIE-HERZEGOVINE",
+        "PAYS CODE": "96 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 374,53 €",
+        "INDEMNITE TOTALE": "2 135,10 €"
+    },
+    "BOTSWANA": {
+        "PAYS": "BOTSWANA",
+        "PAYS CODE": "97 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 231,83 €",
+        "INDEMNITE TOTALE": "1 992,40 €"
+    },
+    "BRESIL": {
+        "PAYS": "BRESIL (autres villes)",
+        "PAYS CODE": "102 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 370,11 €",
+        "INDEMNITE TOTALE": "2 130,68 €"
+    },
+    "BRESIL (Brasilia)": {
+        "PAYS": "BRESIL (Brasilia)",
+        "PAYS CODE": "101 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 423,25 €",
+        "INDEMNITE TOTALE": "2 183,82 €"
+    },
+    "BRESIL (Rio de Janeiro)": {
+        "PAYS": "BRESIL (Rio de Janeiro)",
+        "PAYS CODE": "106 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 487,98 €",
+        "INDEMNITE TOTALE": "2 248,55 €"
+    },
+    "BRESIL (São Paulo)": {
+        "PAYS": "BRESIL (São Paulo)",
+        "PAYS CODE": "104 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 743,07 €",
+        "INDEMNITE TOTALE": "2 503,64 €"
+    },
+    "BRUNEI": {
+        "PAYS": "BRUNEI",
+        "PAYS CODE": "105 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 452,16 €",
+        "INDEMNITE TOTALE": "2 212,73 €"
+    },
+    "BULGARIE": {
+        "PAYS": "BULGARIE",
+        "PAYS CODE": "110 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 272,60 €",
+        "INDEMNITE TOTALE": "2 033,17 €"
+    },
+    "BURKINA FASO": {
+        "PAYS": "BURKINA FASO",
+        "PAYS CODE": "760 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 763,24 €",
+        "INDEMNITE TOTALE": "3 523,81 €"
+    },
+    "BURUNDI": {
+        "PAYS": "BURUNDI",
+        "PAYS CODE": "115 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 502,54 €",
+        "INDEMNITE TOTALE": "3 263,11 €"
+    },
+    "CAMBODGE": {
+        "PAYS": "CAMBODGE",
+        "PAYS CODE": "140 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 642,88 €",
+        "INDEMNITE TOTALE": "2 403,45 €"
+    },
+    "CAMEROUN": {
+        "PAYS": "CAMEROUN (autres villes)",
+        "PAYS CODE": "145 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 578,58 €",
+        "INDEMNITE TOTALE": "2 339,15 €"
+    },
+    "CAMEROUN (Douala, Garoua)": {
+        "PAYS": "CAMEROUN (Douala, Garoua)",
+        "PAYS CODE": "146 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 700,62 €",
+        "INDEMNITE TOTALE": "2 461,19 €"
+    },
+    "CANADA (autres villes francophones)": {
+        "PAYS": "CANADA (autres villes francophones)",
+        "PAYS CODE": "150 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 719,25 €",
+        "INDEMNITE TOTALE": "2 479,82 €"
+    },
+    "CANADA (Ottawa)": {
+        "PAYS": "CANADA (Ottawa)",
+        "PAYS CODE": "156 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 719,25 €",
+        "INDEMNITE TOTALE": "2 479,82 €"
+    },
+    "CANADA (Toronto et autres villes anglophones)": {
+        "PAYS": "CANADA (Toronto et autres villes anglophones)",
+        "PAYS CODE": "151 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 178,70 €",
+        "INDEMNITE TOTALE": "2 939,27 €"
+    },
+    "CANADA (Vancouver)": {
+        "PAYS": "CANADA (Vancouver)",
+        "PAYS CODE": "152 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 214,22 €",
+        "INDEMNITE TOTALE": "2 974,79 €"
+    },
+    "CAP-VERT": {
+        "PAYS": "CAP-VERT",
+        "PAYS CODE": "153 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 287,29 €",
+        "INDEMNITE TOTALE": "2 047,86 €"
+    },
+    "CHILI": {
+        "PAYS": "CHILI",
+        "PAYS CODE": "165 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 715,69 €",
+        "INDEMNITE TOTALE": "2 476,26 €"
+    },
+    "CHINE": {
+        "PAYS": "CHINE (autres villes)",
+        "PAYS CODE": "173 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 074,15 €",
+        "INDEMNITE TOTALE": "2 834,72 €"
+    },
+    "CHINE (Hong-Kong)": {
+        "PAYS": "CHINE (Hong-Kong)",
+        "PAYS CODE": "385 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 488,23 €",
+        "INDEMNITE TOTALE": "3 248,80 €"
+    },
+    "CHINE (Pékin)": {
+        "PAYS": "CHINE (Pékin)",
+        "PAYS CODE": "170 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 231,72 €",
+        "INDEMNITE TOTALE": "2 992,29 €"
+    },
+    "CHINE (Shanghai)": {
+        "PAYS": "CHINE (Shanghai)",
+        "PAYS CODE": "171 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 238,58 €",
+        "INDEMNITE TOTALE": "2 999,15 €"
+    },
+    "CHINE (Wuhan, Canton)": {
+        "PAYS": "CHINE (Wuhan, Canton)",
+        "PAYS CODE": "172 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 005,63 €",
+        "INDEMNITE TOTALE": "2 766,20 €"
+    },
+    "CHYPRE": {
+        "PAYS": "CHYPRE",
+        "PAYS CODE": "175 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 302,41 €",
+        "INDEMNITE TOTALE": "2 062,98 €"
+    },
+    "COLOMBIE": {
+        "PAYS": "COLOMBIE",
+        "PAYS CODE": "185 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 476,60 €",
+        "INDEMNITE TOTALE": "2 237,17 €"
+    },
+    "COMORES": {
+        "PAYS": "COMORES",
+        "PAYS CODE": "187 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 313,80 €",
+        "INDEMNITE TOTALE": "3 074,37 €"
+    },
+    "CONGO": {
+        "PAYS": "CONGO",
+        "PAYS CODE": "190 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 158,24 €",
+        "INDEMNITE TOTALE": "2 918,81 €"
+    },
+    "CONGO RDC": {
+        "PAYS": "CONGO RDC (autres villes)",
+        "PAYS CODE": "196 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "4 038,23 €",
+        "INDEMNITE TOTALE": "4 798,80 €"
+    },
+    "CONGO RDC (Kinshasa)": {
+        "PAYS": "CONGO RDC (Kinshasa)",
+        "PAYS CODE": "195 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 755,36 €",
+        "INDEMNITE TOTALE": "4 515,93 €"
+    },
+    "COREE DU SUD": {
+        "PAYS": "COREE DU SUD",
+        "PAYS CODE": "200 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 682,43 €",
+        "INDEMNITE TOTALE": "2 443,00 €"
+    },
+    "COSTA RICA": {
+        "PAYS": "COSTA RICA",
+        "PAYS CODE": "205 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 911,05 €",
+        "INDEMNITE TOTALE": "2 671,62 €"
+    },
+    "COTE D'IVOIRE": {
+        "PAYS": "COTE D'IVOIRE",
+        "PAYS CODE": "210 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 766,50 €",
+        "INDEMNITE TOTALE": "2 527,07 €"
+    },
+    "CROATIE": {
+        "PAYS": "CROATIE",
+        "PAYS CODE": "230 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 277,20 €",
+        "INDEMNITE TOTALE": "2 037,77 €"
+    },
+    "CUBA": {
+        "PAYS": "CUBA",
+        "PAYS CODE": "215 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "4 054,29 €",
+        "INDEMNITE TOTALE": "4 814,86 €"
+    },
+    "DANEMARK": {
+        "PAYS": "DANEMARK",
+        "PAYS CODE": "245 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 344,54 €",
+        "INDEMNITE TOTALE": "3 105,11 €"
+    },
+    "DJIBOUTI": {
+        "PAYS": "DJIBOUTI",
+        "PAYS CODE": "754 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 042,33 €",
+        "INDEMNITE TOTALE": "2 802,90 €"
+    },
+    "DOMINIQUE": {
+        "PAYS": "DOMINIQUE",
+        "PAYS CODE": "515 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 507,85 €",
+        "INDEMNITE TOTALE": "2 268,42 €"
+    },
+    "EGYPTE": {
+        "PAYS": "EGYPTE",
+        "PAYS CODE": "750 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 009,61 €",
+        "INDEMNITE TOTALE": "2 770,18 €"
+    },
+    "EMIRATS ARABES UNIS (Abou-Dhabi)": {
+        "PAYS": "EMIRATS ARABES UNIS (Abou-Dhabi)",
+        "PAYS CODE": "3 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 915,21 €",
+        "INDEMNITE TOTALE": "2 675,78 €"
+    },
+    "EMIRATS ARABES UNIS": {
+        "PAYS": "EMIRATS ARABES UNIS (autres villes)",
+        "PAYS CODE": "11 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 956,33 €",
+        "INDEMNITE TOTALE": "2 716,90 €"
+    },
+    "EQUATEUR": {
+        "PAYS": "EQUATEUR",
+        "PAYS CODE": "260 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 720,46 €",
+        "INDEMNITE TOTALE": "2 481,03 €"
+    },
+    "ERYTHREE": {
+        "PAYS": "ERYTHREE",
+        "PAYS CODE": "262 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 360,15 €",
+        "INDEMNITE TOTALE": "3 120,72 €"
+    },
+    "ESPAGNE": {
+        "PAYS": "ESPAGNE",
+        "PAYS CODE": "265 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 435,00 €",
+        "INDEMNITE TOTALE": "2 195,57 €"
+    },
+    "ESTONIE": {
+        "PAYS": "ESTONIE",
+        "PAYS CODE": "294 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 706,70 €",
+        "INDEMNITE TOTALE": "2 467,27 €"
+    },
+    "ESWATINI": {
+        "PAYS": "ESWATINI",
+        "PAYS CODE": "860 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 246,56 €",
+        "INDEMNITE TOTALE": "2 007,13 €"
+    },
+    "ETATS-UNIS (Californie)": {
+        "PAYS": "ETATS-UNIS (Californie)",
+        "PAYS CODE": "451 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 860,34 €",
+        "INDEMNITE TOTALE": "4 620,91 €"
+    },
+    "ETATS-UNIS (Mississippi, Oklahoma, Alabama, Kansas, Iowa, Georgie, Ohio, Virginie Occidentale)": {
+        "PAYS": "ETATS-UNIS (Mississippi, Oklahoma, Alabama, Kansas, Iowa, Georgie, Ohio, Virginie Occidentale)",
+        "PAYS CODE": "274 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 174,60 €",
+        "INDEMNITE TOTALE": "2 935,17 €"
+    },
+    "ETATS-UNIS (Etat de Washington, Maine, New Hampshire, Vermont, Oregon, Maryland, Alaska, Virginie)": {
+        "PAYS": "ETATS-UNIS (Etat de Washington, Maine, New Hampshire, Vermont, Oregon, Maryland, Alaska, Virginie)",
+        "PAYS CODE": "277 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 795,66 €",
+        "INDEMNITE TOTALE": "3 556,23 €"
+    },
+    "ETATS-UNIS (Floride, Michigan, Illinois, Texas)": {
+        "PAYS": "ETATS-UNIS (Floride, Michigan, Illinois, Texas)",
+        "PAYS CODE": "455 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 706,94 €",
+        "INDEMNITE TOTALE": "3 467,51 €"
+    },
+    "ETATS-UNIS (Hawaï)": {
+        "PAYS": "ETATS-UNIS (Hawaï)",
+        "PAYS CODE": "360 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 209,98 €",
+        "INDEMNITE TOTALE": "3 970,55 €"
+    },
+    "ETATS-UNIS (Massachusetts)": {
+        "PAYS": "ETATS-UNIS (Massachusetts)",
+        "PAYS CODE": "279 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 201,12 €",
+        "INDEMNITE TOTALE": "3 961,69 €"
+    },
+    "ETATS-UNIS (Minnesota, Dakota du Sud, Caroline du Sud, Dakota du Nord, Caroline du Nord, Pennsylvanie, Idaho)": {
+        "PAYS": "ETATS-UNIS (Minnesota, Dakota du Sud, Caroline du Sud, Dakota du Nord, Caroline du Nord, Pennsylvanie, Idaho)",
+        "PAYS CODE": "456 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 529,49 €",
+        "INDEMNITE TOTALE": "3 290,06 €"
+    },
+    "ETATS-UNIS (Missouri, Indiana, Tennessee, Arkansas, Nebraska, Wyoming, Kentucky, Louisiane, Nouveau-Mexique, Wisconsin)": {
+        "PAYS": "ETATS-UNIS (Missouri, Indiana, Tennessee, Arkansas, Nebraska, Wyoming, Kentucky, Louisiane, Nouveau-Mexique, Wisconsin)",
+        "PAYS CODE": "276 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 440,77 €",
+        "INDEMNITE TOTALE": "3 201,34 €"
+    },
+    "ETATS-UNIS (New York)": {
+        "PAYS": "ETATS-UNIS (New York)",
+        "PAYS CODE": "273 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "4 088,34 €",
+        "INDEMNITE TOTALE": "4 848,91 €"
+    },
+    "ETATS-UNIS (Porto Rico)": {
+        "PAYS": "ETATS-UNIS (Porto Rico)",
+        "PAYS CODE": "720 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 381,30 €",
+        "INDEMNITE TOTALE": "3 141,87 €"
+    },
+    "ETATS-UNIS (Nevada, Utah, Colorado, Montana, Delaware, Arizona, Rhode Island)": {
+        "PAYS": "ETATS-UNIS (Nevada, Utah, Colorado, Montana, Delaware, Arizona, Rhode Island)",
+        "PAYS CODE": "278 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 618,21 €",
+        "INDEMNITE TOTALE": "3 378,78 €"
+    },
+    "ETATS-UNIS (New Jersey, Etat de New York (hors NYC), Connecticut)": {
+        "PAYS": "ETATS-UNIS (New Jersey, Etat de New York (hors NYC), Connecticut)",
+        "PAYS CODE": "457 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 201,12 €",
+        "INDEMNITE TOTALE": "3 961,69 €"
+    },
+    "ETATS-UNIS (Washington DC, District de Columbia)": {
+        "PAYS": "ETATS-UNIS (Washington DC, District de Columbia)",
+        "PAYS CODE": "272 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 142,56 €",
+        "INDEMNITE TOTALE": "3 903,13 €"
+    },
+    "ETHIOPIE": {
+        "PAYS": "ETHIOPIE",
+        "PAYS CODE": "275 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 999,38 €",
+        "INDEMNITE TOTALE": "2 759,95 €"
+    },
+    "FIDJI": {
+        "PAYS": "FIDJI",
+        "PAYS CODE": "280 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 503,44 €",
+        "INDEMNITE TOTALE": "2 264,01 €"
+    },
+    "FINLANDE": {
+        "PAYS": "FINLANDE",
+        "PAYS CODE": "290 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 982,53 €",
+        "INDEMNITE TOTALE": "2 743,10 €"
+    },
+    "GABON": {
+        "PAYS": "GABON (autres villes)",
+        "PAYS CODE": "311 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 684,25 €",
+        "INDEMNITE TOTALE": "2 444,82 €"
+    },
+    "GABON (Libreville)": {
+        "PAYS": "GABON (Libreville)",
+        "PAYS CODE": "310 ",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 823,79 €",
+        "INDEMNITE TOTALE": "2 584,36 €"
+    },
+    "GAMBIE": {
+        "PAYS": "GAMBIE",
+        "PAYS CODE": "312",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "914,79 €",
+        "INDEMNITE TOTALE": "1 675,36 €"
+    },
+    "GEORGIE": {
+        "PAYS": "GEORGIE",
+        "PAYS CODE": "314",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 572,06 €",
+        "INDEMNITE TOTALE": "2 332,63 €"
+    },
+    "GHANA": {
+        "PAYS": "GHANA",
+        "PAYS CODE": "315",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 064,72 €",
+        "INDEMNITE TOTALE": "2 825,29 €"
+    },
+    "GRECE": {
+        "PAYS": "GRECE",
+        "PAYS CODE": "330",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 334,15 €",
+        "INDEMNITE TOTALE": "2 094,72 €"
+    },
+    "GRENADE": {
+        "PAYS": "GRENADE",
+        "PAYS CODE": "333",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 476,38 €",
+        "INDEMNITE TOTALE": "2 236,95 €"
+    },
+    "GUATEMALA": {
+        "PAYS": "GUATEMALA",
+        "PAYS CODE": "335",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 199,45 €",
+        "INDEMNITE TOTALE": "2 960,02 €"
+    },
+    "GUINEE": {
+        "PAYS": "GUINEE",
+        "PAYS CODE": "340",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 679,82 €",
+        "INDEMNITE TOTALE": "3 440,39 €"
+    },
+    "GUINEE EQUATORIALE": {
+        "PAYS": "GUINEE EQUATORIALE",
+        "PAYS CODE": "343",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 354,31 €",
+        "INDEMNITE TOTALE": "3 114,88 €"
+    },
+    "GUINEE-BISSAO": {
+        "PAYS": "GUINEE-BISSAO",
+        "PAYS CODE": "345",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 602,42 €",
+        "INDEMNITE TOTALE": "3 362,99 €"
+    },
+    "GUYANA": {
+        "PAYS": "GUYANA",
+        "PAYS CODE": "350",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 762,94 €",
+        "INDEMNITE TOTALE": "2 523,51 €"
+    },
+    "HAITI": {
+        "PAYS": "HAITI",
+        "PAYS CODE": "375",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "4 285,64 €",
+        "INDEMNITE TOTALE": "5 046,21 €"
+    },
+    "HONDURAS": {
+        "PAYS": "HONDURAS",
+        "PAYS CODE": "380",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 855,47 €",
+        "INDEMNITE TOTALE": "2 616,04 €"
+    },
+    "HONGRIE": {
+        "PAYS": "HONGRIE",
+        "PAYS CODE": "390",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 562,59 €",
+        "INDEMNITE TOTALE": "2 323,16 €"
+    },
+    "INDE": {
+        "PAYS": "INDE (autres villes)",
+        "PAYS CODE": "410",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 993,04 €",
+        "INDEMNITE TOTALE": "2 753,61 €"
+    },
+    "INDE (Bangalore)": {
+        "PAYS": "INDE (Bangalore)",
+        "PAYS CODE": "413",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 993,04 €",
+        "INDEMNITE TOTALE": "2 753,61 €"
+    },
+    "INDE (Bombay, Calcutta)": {
+        "PAYS": "INDE (Bombay, Calcutta)",
+        "PAYS CODE": "411",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 433,48 €",
+        "INDEMNITE TOTALE": "3 194,05 €"
+    },
+    "INDE (New Delhi)": {
+        "PAYS": "INDE (New Delhi)",
+        "PAYS CODE": "412",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 356,96 €",
+        "INDEMNITE TOTALE": "3 117,53 €"
+    },
+    "INDONESIE": {
+        "PAYS": "INDONESIE",
+        "PAYS CODE": "415",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 012,48 €",
+        "INDEMNITE TOTALE": "2 773,05 €"
+    },
+    "IRAK": {
+        "PAYS": "IRAK (autres villes)",
+        "PAYS CODE": "420",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "4 129,00 €",
+        "INDEMNITE TOTALE": "4 889,57 €"
+    },
+    "IRAK (Erbil)": {
+        "PAYS": "IRAK (Erbil)",
+        "PAYS CODE": "421",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 452,00 €",
+        "INDEMNITE TOTALE": "4 212,57 €"
+    },
+    "IRAN": {
+        "PAYS": "IRAN",
+        "PAYS CODE": "425",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "5 120,19 €",
+        "INDEMNITE TOTALE": "5 880,76 €"
+    },
+    "IRLANDE": {
+        "PAYS": "IRLANDE",
+        "PAYS CODE": "430",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 373,53 €",
+        "INDEMNITE TOTALE": "3 134,10 €"
+    },
+    "ISLANDE": {
+        "PAYS": "ISLANDE",
+        "PAYS CODE": "435",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 188,53 €",
+        "INDEMNITE TOTALE": "2 949,10 €"
+    },
+    "ISRAEL": {
+        "PAYS": "ISRAEL",
+        "PAYS CODE": "440",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 352,77 €",
+        "INDEMNITE TOTALE": "3 113,34 €"
+    },
+    "ITALIE": {
+        "PAYS": "ITALIE (autres villes)",
+        "PAYS CODE": "445",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 870,58 €",
+        "INDEMNITE TOTALE": "2 631,15 €"
+    },
+    "ITALIE (Turin)": {
+        "PAYS": "ITALIE (Turin)",
+        "PAYS CODE": "449",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 562,07 €",
+        "INDEMNITE TOTALE": "2 322,64 €"
+    },
+    "JAMAIQUE": {
+        "PAYS": "JAMAIQUE",
+        "PAYS CODE": "470",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 720,98 €",
+        "INDEMNITE TOTALE": "2 481,55 €"
+    },
+    "JAPON": {
+        "PAYS": "JAPON (autres villes)",
+        "PAYS CODE": "476",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 664,51 €",
+        "INDEMNITE TOTALE": "2 425,08 €"
+    },
+    "JAPON (Tokyo)": {
+        "PAYS": "JAPON (Tokyo)",
+        "PAYS CODE": "475",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 917,38 €",
+        "INDEMNITE TOTALE": "2 677,95 €"
+    },
+    "JERUSALEM": {
+        "PAYS": "JERUSALEM",
+        "PAYS CODE": "441",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 508,66 €",
+        "INDEMNITE TOTALE": "3 269,23 €"
+    },
+    "JORDANIE": {
+        "PAYS": "JORDANIE",
+        "PAYS CODE": "485",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 579,57 €",
+        "INDEMNITE TOTALE": "2 340,14 €"
+    },
+    "KAZAKHSTAN": {
+        "PAYS": "KAZAKHSTAN (autres villes)",
+        "PAYS CODE": "495",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 739,88 €",
+        "INDEMNITE TOTALE": "2 500,45 €"
+    },
+    "KAZAKHSTAN (Astana)": {
+        "PAYS": "KAZAKHSTAN (Astana)",
+        "PAYS CODE": "496",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 919,14 €",
+        "INDEMNITE TOTALE": "2 679,71 €"
+    },
+    "KENYA": {
+        "PAYS": "KENYA",
+        "PAYS CODE": "500",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 592,86 €",
+        "INDEMNITE TOTALE": "2 353,43 €"
+    },
+    "KIRGHIZSTAN": {
+        "PAYS": "KIRGHIZSTAN",
+        "PAYS CODE": "502",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 240,36 €",
+        "INDEMNITE TOTALE": "3 000,93 €"
+    },
+    "KOSOVO": {
+        "PAYS": "KOSOVO",
+        "PAYS CODE": "981",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 454,03 €",
+        "INDEMNITE TOTALE": "2 214,60 €"
+    },
+    "KOWEIT": {
+        "PAYS": "KOWEIT",
+        "PAYS CODE": "505",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 135,91 €",
+        "INDEMNITE TOTALE": "2 896,48 €"
+    },
+    "LAOS": {
+        "PAYS": "LAOS",
+        "PAYS CODE": "520",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 379,87 €",
+        "INDEMNITE TOTALE": "2 140,44 €"
+    },
+    "LESOTHO": {
+        "PAYS": "LESOTHO",
+        "PAYS CODE": "522",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 547,93 €",
+        "INDEMNITE TOTALE": "2 308,50 €"
+    },
+    "LETTONIE": {
+        "PAYS": "LETTONIE",
+        "PAYS CODE": "523",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 629,18 €",
+        "INDEMNITE TOTALE": "2 389,75 €"
+    },
+    "LIBAN": {
+        "PAYS": "LIBAN",
+        "PAYS CODE": "525",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "5 025,16 €",
+        "INDEMNITE TOTALE": "5 785,73 €"
+    },
+    "LIBERIA": {
+        "PAYS": "LIBERIA",
+        "PAYS CODE": "530",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 243,00 €",
+        "INDEMNITE TOTALE": "4 003,57 €"
+    },
+    "LIBYE": {
+        "PAYS": "LIBYE",
+        "PAYS CODE": "535",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 252,00 €",
+        "INDEMNITE TOTALE": "4 012,57 €"
+    },
+    "LITUANIE": {
+        "PAYS": "LITUANIE",
+        "PAYS CODE": "538",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 784,41 €",
+        "INDEMNITE TOTALE": "2 544,98 €"
+    },
+    "LUXEMBOURG": {
+        "PAYS": "LUXEMBOURG",
+        "PAYS CODE": "540",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 983,08 €",
+        "INDEMNITE TOTALE": "2 743,65 €"
+    },
+    "MACAO": {
+        "PAYS": "MACAO",
+        "PAYS CODE": "545",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 488,23 €",
+        "INDEMNITE TOTALE": "3 248,80 €"
+    },
+    "MACEDOINE": {
+        "PAYS": "MACEDOINE",
+        "PAYS CODE": "555",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 289,42 €",
+        "INDEMNITE TOTALE": "2 049,99 €"
+    },
+    "MADAGASCAR": {
+        "PAYS": "MADAGASCAR",
+        "PAYS CODE": "560",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 488,95 €",
+        "INDEMNITE TOTALE": "2 249,52 €"
+    },
+    "MALAISIE": {
+        "PAYS": "MALAISIE",
+        "PAYS CODE": "565",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 084,15 €",
+        "INDEMNITE TOTALE": "1 844,72 €"
+    },
+    "MALAWI": {
+        "PAYS": "MALAWI",
+        "PAYS CODE": "570",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 305,89 €",
+        "INDEMNITE TOTALE": "2 066,46 €"
+    },
+    "MALDIVES": {
+        "PAYS": "MALDIVES",
+        "PAYS CODE": "573",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 906,09 €",
+        "INDEMNITE TOTALE": "2 666,66 €"
+    },
+    "MALI": {
+        "PAYS": "MALI",
+        "PAYS CODE": "575",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 902,56 €",
+        "INDEMNITE TOTALE": "3 663,13 €"
+    },
+    "MALTE": {
+        "PAYS": "MALTE",
+        "PAYS CODE": "580",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 409,34 €",
+        "INDEMNITE TOTALE": "2 169,91 €"
+    },
+    "MAROC (Agadir)": {
+        "PAYS": "MAROC (Agadir)",
+        "PAYS CODE": "589",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 139,78 €",
+        "INDEMNITE TOTALE": "1 900,35 €"
+    },
+    "MAROC": {
+        "PAYS": "MAROC (autres villes)",
+        "PAYS CODE": "585",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 139,78 €",
+        "INDEMNITE TOTALE": "1 900,35 €"
+    },
+    "MAURICE": {
+        "PAYS": "MAURICE",
+        "PAYS CODE": "405",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "987,37 €",
+        "INDEMNITE TOTALE": "1 747,94 €"
+    },
+    "MAURITANIE": {
+        "PAYS": "MAURITANIE",
+        "PAYS CODE": "590",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 530,13 €",
+        "INDEMNITE TOTALE": "3 290,70 €"
+    },
+    "MEXIQUE": {
+        "PAYS": "MEXIQUE (autres villes)",
+        "PAYS CODE": "601",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 288,28 €",
+        "INDEMNITE TOTALE": "3 048,85 €"
+    },
+    "MEXIQUE (Mexico)": {
+        "PAYS": "MEXIQUE (Mexico)",
+        "PAYS CODE": "600",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 288,28 €",
+        "INDEMNITE TOTALE": "3 048,85 €"
+    },
+    "MOLDAVIE": {
+        "PAYS": "MOLDAVIE",
+        "PAYS CODE": "606",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 980,32 €",
+        "INDEMNITE TOTALE": "2 740,89 €"
+    },
+    "MONACO": {
+        "PAYS": "MONACO",
+        "PAYS CODE": "605",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 501,70 €",
+        "INDEMNITE TOTALE": "2 262,27 €"
+    },
+    "MONGOLIE": {
+        "PAYS": "MONGOLIE",
+        "PAYS CODE": "607",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 599,10 €",
+        "INDEMNITE TOTALE": "3 359,67 €"
+    },
+    "MONTENEGRO": {
+        "PAYS": "MONTENEGRO",
+        "PAYS CODE": "985",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 198,05 €",
+        "INDEMNITE TOTALE": "1 958,62 €"
+    },
+    "MOZAMBIQUE": {
+        "PAYS": "MOZAMBIQUE",
+        "PAYS CODE": "610",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 083,24 €",
+        "INDEMNITE TOTALE": "2 843,81 €"
+    },
+    "NAMIBIE": {
+        "PAYS": "NAMIBIE",
+        "PAYS CODE": "620",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 508,98 €",
+        "INDEMNITE TOTALE": "2 269,55 €"
+    },
+    "NEPAL": {
+        "PAYS": "NEPAL",
+        "PAYS CODE": "630",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 643,40 €",
+        "INDEMNITE TOTALE": "3 403,97 €"
+    },
+    "NICARAGUA": {
+        "PAYS": "NICARAGUA",
+        "PAYS CODE": "640",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 617,72 €",
+        "INDEMNITE TOTALE": "2 378,29 €"
+    },
+    "NIGER": {
+        "PAYS": "NIGER",
+        "PAYS CODE": "645",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 818,03 €",
+        "INDEMNITE TOTALE": "3 578,60 €"
+    },
+    "NIGERIA": {
+        "PAYS": "NIGERIA (Autres villes)",
+        "PAYS CODE": "650",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 035,01 €",
+        "INDEMNITE TOTALE": "3 795,58 €"
+    },
+    "NIGERIA (Lagos)": {
+        "PAYS": "NIGERIA (Lagos)",
+        "PAYS CODE": "651",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 807,30 €",
+        "INDEMNITE TOTALE": "3 567,87 €"
+    },
+    "NORVEGE": {
+        "PAYS": "NORVEGE (autres villes)",
+        "PAYS CODE": "660",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 019,34 €",
+        "INDEMNITE TOTALE": "2 779,91 €"
+    },
+    "NORVEGE (Stavanger)": {
+        "PAYS": "NORVEGE (Stavanger)",
+        "PAYS CODE": "662",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 971,40 €",
+        "INDEMNITE TOTALE": "2 731,97 €"
+    },
+    "NOUVELLE-ZELANDE": {
+        "PAYS": "NOUVELLE-ZELANDE",
+        "PAYS CODE": "655",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 745,99 €",
+        "INDEMNITE TOTALE": "2 506,56 €"
+    },
+    "OMAN": {
+        "PAYS": "OMAN",
+        "PAYS CODE": "670",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 705,96 €",
+        "INDEMNITE TOTALE": "2 466,53 €"
+    },
+    "OUGANDA": {
+        "PAYS": "OUGANDA",
+        "PAYS CODE": "675",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 203,50 €",
+        "INDEMNITE TOTALE": "2 964,07 €"
+    },
+    "OUZBEKISTAN": {
+        "PAYS": "OUZBEKISTAN",
+        "PAYS CODE": "680",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 950,16 €",
+        "INDEMNITE TOTALE": "2 710,73 €"
+    },
+    "PAKISTAN": {
+        "PAYS": "PAKISTAN (autres villes)",
+        "PAYS CODE": "685",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 254,71 €",
+        "INDEMNITE TOTALE": "3 015,28 €"
+    },
+    "PAKISTAN (Karachi)": {
+        "PAYS": "PAKISTAN (Karachi)",
+        "PAYS CODE": "686",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 324,46 €",
+        "INDEMNITE TOTALE": "3 085,03 €"
+    },
+    "PANAMA": {
+        "PAYS": "PANAMA",
+        "PAYS CODE": "690",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 581,84 €",
+        "INDEMNITE TOTALE": "2 342,41 €"
+    },
+    "PAPOUASIE-NOUVELLE-GUINEE": {
+        "PAYS": "PAPOUASIE-NOUVELLE-GUINEE",
+        "PAYS CODE": "653",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 858,03 €",
+        "INDEMNITE TOTALE": "3 618,60 €"
+    },
+    "PARAGUAY": {
+        "PAYS": "PARAGUAY",
+        "PAYS CODE": "695",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 262,94 €",
+        "INDEMNITE TOTALE": "2 023,51 €"
+    },
+    "PAYS-BAS": {
+        "PAYS": "PAYS-BAS",
+        "PAYS CODE": "700",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 114,79 €",
+        "INDEMNITE TOTALE": "2 875,36 €"
+    },
+    "PEROU": {
+        "PAYS": "PEROU",
+        "PAYS CODE": "705",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 461,21 €",
+        "INDEMNITE TOTALE": "2 221,78 €"
+    },
+    "PHILIPPINES": {
+        "PAYS": "PHILIPPINES",
+        "PAYS CODE": "710",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 880,74 €",
+        "INDEMNITE TOTALE": "2 641,31 €"
+    },
+    "POLOGNE": {
+        "PAYS": "POLOGNE",
+        "PAYS CODE": "715",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 750,56 €",
+        "INDEMNITE TOTALE": "2 511,13 €"
+    },
+    "PORTUGAL": {
+        "PAYS": "PORTUGAL",
+        "PAYS CODE": "725",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 581,99 €",
+        "INDEMNITE TOTALE": "2 342,56 €"
+    },
+    "QATAR": {
+        "PAYS": "QATAR",
+        "PAYS CODE": "727",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 143,43 €",
+        "INDEMNITE TOTALE": "2 904,00 €"
+    },
+    "REPUBLIQUE CENTRAFRICAINE": {
+        "PAYS": "REPUBLIQUE CENTRAFRICAINE",
+        "PAYS CODE": "155",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "4 207,35 €",
+        "INDEMNITE TOTALE": "4 967,92 €"
+    },
+    "REPUBLIQUE DOMINICAINE": {
+        "PAYS": "REPUBLIQUE DOMINICAINE",
+        "PAYS CODE": "755",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 509,96 €",
+        "INDEMNITE TOTALE": "2 270,53 €"
+    },
+    "REPUBLIQUE TCHEQUE": {
+        "PAYS": "REPUBLIQUE TCHEQUE",
+        "PAYS CODE": "93",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 870,33 €",
+        "INDEMNITE TOTALE": "2 630,90 €"
+    },
+    "ROUMANIE": {
+        "PAYS": "ROUMANIE",
+        "PAYS CODE": "770",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 461,88 €",
+        "INDEMNITE TOTALE": "2 222,45 €"
+    },
+    "ROYAUME-UNI": {
+        "PAYS": "ROYAUME-UNI (autres villes)",
+        "PAYS CODE": "326",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 653,57 €",
+        "INDEMNITE TOTALE": "2 414,14 €"
+    },
+    "ROYAUME-UNI (Edimbourg)": {
+        "PAYS": "ROYAUME-UNI (Edimbourg)",
+        "PAYS CODE": "325",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 618,61 €",
+        "INDEMNITE TOTALE": "2 379,18 €"
+    },
+    "ROYAUME-UNI (Londres)": {
+        "PAYS": "ROYAUME-UNI (Londres)",
+        "PAYS CODE": "327",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 577,79 €",
+        "INDEMNITE TOTALE": "3 338,36 €"
+    },
+    "RUSSIE": {
+        "PAYS": "RUSSIE (autres villes)",
+        "PAYS CODE": "938",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 649,00 €",
+        "INDEMNITE TOTALE": "3 409,57 €"
+    },
+    "RUSSIE (Moscou)": {
+        "PAYS": "RUSSIE (Moscou)",
+        "PAYS CODE": "935",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 938,00 €",
+        "INDEMNITE TOTALE": "3 698,57 €"
+    },
+    "RUSSIE (Saint-Petersbourg)": {
+        "PAYS": "RUSSIE (Saint-Petersbourg)",
+        "PAYS CODE": "936",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 310,00 €",
+        "INDEMNITE TOTALE": "3 070,57 €"
+    },
+    "RWANDA": {
+        "PAYS": "RWANDA",
+        "PAYS CODE": "775",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 666,73 €",
+        "INDEMNITE TOTALE": "2 427,30 €"
+    },
+    "SAINT-CHRISTOPHE-ET-NIEVES": {
+        "PAYS": "SAINT-CHRISTOPHE-ET-NIEVES",
+        "PAYS CODE": "783",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 546,72 €",
+        "INDEMNITE TOTALE": "2 307,29 €"
+    },
+    "SAINTE-LUCIE": {
+        "PAYS": "SAINTE-LUCIE",
+        "PAYS CODE": "785",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 540,25 €",
+        "INDEMNITE TOTALE": "2 300,82 €"
+    },
+    "SAINT-SIEGE": {
+        "PAYS": "SAINT-SIEGE",
+        "PAYS CODE": "800",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 870,58 €",
+        "INDEMNITE TOTALE": "2 631,15 €"
+    },
+    "SAINT-MARTIN": {
+        "PAYS": "SAINT-MARTIN",
+        "PAYS CODE": "701",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 114,79 €",
+        "INDEMNITE TOTALE": "2 875,36 €"
+    },
+    "SAINT-VINCENT-ET-LES GRENADINES": {
+        "PAYS": "SAINT-VINCENT-ET-LES GRENADINES",
+        "PAYS CODE": "801",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 547,65 €",
+        "INDEMNITE TOTALE": "2 308,22 €"
+    },
+    "SALOMON (ILES)": {
+        "PAYS": "SALOMON (ILES)",
+        "PAYS CODE": "946",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 858,03 €",
+        "INDEMNITE TOTALE": "3 618,60 €"
+    },
+    "SALVADOR": {
+        "PAYS": "SALVADOR",
+        "PAYS CODE": "805",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 767,95 €",
+        "INDEMNITE TOTALE": "2 528,52 €"
+    },
+    "SAO TOME-ET-PRINCIPE": {
+        "PAYS": "SAO TOME-ET-PRINCIPE",
+        "PAYS CODE": "803",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 493,71 €",
+        "INDEMNITE TOTALE": "3 254,28 €"
+    },
+    "SENEGAL": {
+        "PAYS": "SENEGAL",
+        "PAYS CODE": "810",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 652,44 €",
+        "INDEMNITE TOTALE": "2 413,01 €"
+    },
+    "SERBIE": {
+        "PAYS": "SERBIE",
+        "PAYS CODE": "980",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 346,98 €",
+        "INDEMNITE TOTALE": "2 107,55 €"
+    },
+    "SEYCHELLES": {
+        "PAYS": "SEYCHELLES",
+        "PAYS CODE": "407",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 567,14 €",
+        "INDEMNITE TOTALE": "2 327,71 €"
+    },
+    "SIERRA LEONE": {
+        "PAYS": "SIERRA LEONE",
+        "PAYS CODE": "815",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 305,00 €",
+        "INDEMNITE TOTALE": "3 065,57 €"
+    },
+    "SINGAPOUR": {
+        "PAYS": "SINGAPOUR",
+        "PAYS CODE": "820",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 887,30 €",
+        "INDEMNITE TOTALE": "3 647,87 €"
+    },
+    "SLOVAQUIE": {
+        "PAYS": "SLOVAQUIE",
+        "PAYS CODE": "881",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 529,50 €",
+        "INDEMNITE TOTALE": "2 290,07 €"
+    },
+    "SLOVENIE": {
+        "PAYS": "SLOVENIE",
+        "PAYS CODE": "822",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 323,97 €",
+        "INDEMNITE TOTALE": "2 084,54 €"
+    },
+    "SOMALIE": {
+        "PAYS": "SOMALIE",
+        "PAYS CODE": "825",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 099,00 €",
+        "INDEMNITE TOTALE": "3 859,57 €"
+    },
+    "SOUDAN": {
+        "PAYS": "SOUDAN",
+        "PAYS CODE": "830",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 320,00 €",
+        "INDEMNITE TOTALE": "3 080,57 €"
+    },
+    "SOUDAN DU SUD": {
+        "PAYS": "SOUDAN DU SUD",
+        "PAYS CODE": "831",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "4 518,00 €",
+        "INDEMNITE TOTALE": "5 278,57 €"
+    },
+    "SRI LANKA": {
+        "PAYS": "SRI LANKA",
+        "PAYS CODE": "160",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 674,15 €",
+        "INDEMNITE TOTALE": "2 434,72 €"
+    },
+    "SUEDE": {
+        "PAYS": "SUEDE",
+        "PAYS CODE": "835",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 891,59 €",
+        "INDEMNITE TOTALE": "2 652,16 €"
+    },
+    "SUISSE": {
+        "PAYS": "SUISSE (autres villes)",
+        "PAYS CODE": "838",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 979,20 €",
+        "INDEMNITE TOTALE": "3 739,77 €"
+    },
+    "SUISSE (Genève)": {
+        "PAYS": "SUISSE (Genève)",
+        "PAYS CODE": "840",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 979,20 €",
+        "INDEMNITE TOTALE": "3 739,77 €"
+    },
+    "SUISSE (Zurich)": {
+        "PAYS": "SUISSE (Zurich)",
+        "PAYS CODE": "841",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 979,20 €",
+        "INDEMNITE TOTALE": "3 739,77 €"
+    },
+    "SURINAME": {
+        "PAYS": "SURINAME",
+        "PAYS CODE": "842",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 632,06 €",
+        "INDEMNITE TOTALE": "3 392,63 €"
+    },
+    "SYRIE": {
+        "PAYS": "SYRIE",
+        "PAYS CODE": "845",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "4 041,00 €",
+        "INDEMNITE TOTALE": "4 801,57 €"
+    },
+    "TADJIKISTAN": {
+        "PAYS": "TADJIKISTAN",
+        "PAYS CODE": "862",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 910,41 €",
+        "INDEMNITE TOTALE": "2 670,98 €"
+    },
+    "TAIPEI": {
+        "PAYS": "TAIPEI",
+        "PAYS CODE": "865",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 534,51 €",
+        "INDEMNITE TOTALE": "2 295,08 €"
+    },
+    "TANZANIE": {
+        "PAYS": "TANZANIE",
+        "PAYS CODE": "870",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 867,69 €",
+        "INDEMNITE TOTALE": "2 628,26 €"
+    },
+    "TCHAD": {
+        "PAYS": "TCHAD",
+        "PAYS CODE": "875",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 821,18 €",
+        "INDEMNITE TOTALE": "3 581,75 €"
+    },
+    "THAILANDE": {
+        "PAYS": "THAILANDE",
+        "PAYS CODE": "885",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 645,08 €",
+        "INDEMNITE TOTALE": "2 405,65 €"
+    },
+    "TIMOR ORIENTAL": {
+        "PAYS": "TIMOR ORIENTAL",
+        "PAYS CODE": "887",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 111,32 €",
+        "INDEMNITE TOTALE": "2 871,89 €"
+    },
+    "TOGO": {
+        "PAYS": "TOGO",
+        "PAYS CODE": "890",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 428,13 €",
+        "INDEMNITE TOTALE": "2 188,70 €"
+    },
+    "TRINITE-ET-TOBAGO": {
+        "PAYS": "TRINITE-ET-TOBAGO",
+        "PAYS CODE": "895",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 984,28 €",
+        "INDEMNITE TOTALE": "2 744,85 €"
+    },
+    "TUNISIE": {
+        "PAYS": "TUNISIE",
+        "PAYS CODE": "900",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "854,10 €",
+        "INDEMNITE TOTALE": "1 614,67 €"
+    },
+    "TURKMENISTAN": {
+        "PAYS": "TURKMENISTAN",
+        "PAYS CODE": "902",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 070,22 €",
+        "INDEMNITE TOTALE": "3 830,79 €"
+    },
+    "TURQUIE (Ankara)": {
+        "PAYS": "TURQUIE (Ankara)",
+        "PAYS CODE": "906",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 490,51 €",
+        "INDEMNITE TOTALE": "2 251,08 €"
+    },
+    "TURQUIE": {
+        "PAYS": "TURQUIE (autres villes)",
+        "PAYS CODE": "907",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 643,00 €",
+        "INDEMNITE TOTALE": "2 403,57 €"
+    },
+    "TURQUIE (Izmir)": {
+        "PAYS": "TURQUIE (Izmir)",
+        "PAYS CODE": "908",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 446,24 €",
+        "INDEMNITE TOTALE": "2 206,81 €"
+    },
+    "UKRAINE": {
+        "PAYS": "UKRAINE",
+        "PAYS CODE": "932",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 114,51 €",
+        "INDEMNITE TOTALE": "3 875,08 €"
+    },
+    "URUGUAY": {
+        "PAYS": "URUGUAY",
+        "PAYS CODE": "940",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 822,38 €",
+        "INDEMNITE TOTALE": "2 582,95 €"
+    },
+    "VANUATU": {
+        "PAYS": "VANUATU",
+        "PAYS CODE": "945",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 830,15 €",
+        "INDEMNITE TOTALE": "2 590,72 €"
+    },
+    "VENEZUELA": {
+        "PAYS": "VENEZUELA",
+        "PAYS CODE": "950",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "3 045,00 €",
+        "INDEMNITE TOTALE": "3 805,57 €"
+    },
+    "VIETNAM": {
+        "PAYS": "VIETNAM",
+        "PAYS CODE": "955",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 565,66 €",
+        "INDEMNITE TOTALE": "2 326,23 €"
+    },
+    "YEMEN": {
+        "PAYS": "YEMEN",
+        "PAYS CODE": "753",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "4 062,00 €",
+        "INDEMNITE TOTALE": "4 822,57 €"
+    },
+    "ZAMBIE": {
+        "PAYS": "ZAMBIE",
+        "PAYS CODE": "990",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "1 350,33 €",
+        "INDEMNITE TOTALE": "2 110,90 €"
+    },
+    "ZIMBABWE": {
+        "PAYS": "ZIMBABWE",
+        "PAYS CODE": "765",
+        "INDEMNITE COMMUNE": "760,57 €",
+        "INDEMNITE GEOGRAPHIQUE": "2 134,73 €",
+        "INDEMNITE TOTALE": "2 895,30 €"
+    }
+}

@@ -1,0 +1,145 @@
+﻿Classement;Pays;Indice de Criminalité;Indice de Sécurité
+1;Venezuela;82,08;17,92
+2;Papouasie Nouvelle Guinée;80,38;19,62
+3;Afghanistan;78,44;21,56
+4;Haïti;78,3;21,7
+5;Afrique du Sud;75,55;24,45
+6;Honduras;74,31;25,69
+7;Trinité-et-Tobago;70,76;29,24
+8;Syrie;69,08;30,92
+9;Guyane;68,8;31,2
+10;Jamaïque;67,54;32,46
+11;Pérou;67,53;32,47
+12;Somalie;66,7;33,3
+13;Brésil;66,13;33,87
+14;Nigeria;65,84;34,16
+15;Angola;65,82;34,18
+16;Namibie;64,64;35,36
+17;Cameroun;64,15;35,85
+18;Argentine;64,02;35,98
+19;Mozambique;63,7;36,3
+20;Bangladesh;62,47;37,53
+21;Le Salvador;62,11;37,89
+22;Bolivie;62,03;37,97
+23;Porto Rico;61,71;38,29
+24;Îles Vierges;61,19;38,81
+25;République Dominicaine;61,13;38,87
+26;Colombie;60,83;39,17
+27;Équateur;60,69;39,31
+28;Zimbabwe;60,57;39,43
+29;Libye;60,36;39,64
+30;Bahamas;60,34;39,66
+31;Guatemala;60,08;39,92
+32;Chili;58,75;41,25
+33;Côte d'Ivoire;57,5;42,5
+34;Kenya;56,77;43,23
+35;Fidji;56,65;43,35
+36;Ouganda;55,85;44,15
+37;Maldives;55,16;44,84
+38;France;54,56;45,44
+39;Tanzanie;54,41;45,59
+40;Mexique;54,08;45,92
+41;Kirghizistan;53,95;46,05
+42;Costa Rica;53,7;46,3
+43;Mongolie;53,5;46,5
+44;Cambodge;52,99;47,01
+45;Botswana;52,64;47,36
+46;Belize;52,34;47,66
+47;Uruguay;51,92;48,08
+48;Malaisie;51,61;48,39
+49;Bélarus;51,41;48,59
+50;Algérie;51,4;48,6
+51;Ethiopie;51,39;48,61
+52;Corée du Nord;50,71;49,29
+53;Paraguay;50,56;49,44
+54;Nicaragua;50,25;49,75
+55;Myanmar;50,05;49,95
+56;Iran;49,78;50,22
+57;États Unis;49,24;50,76
+58;La Belgique;48,9;51,1
+59;Suède;48,14;51,86
+60;Maurice;48,09;51,91
+61;Zambie;47,89;52,11
+62;Italie;47,31;52,69
+63;Nouvelle-Zélande;47,14;52,86
+64;Maroc;47,09;52,91
+65;Egypte;47,03;52,97
+66;Royaume-Uni;46,94;53,06
+67;Ukraine;46,82;53,18
+68;Australie;46,69;53,31
+69;La Barbade;46,57;53,43
+70;Grèce;46,53;53,47
+71;Liban;46,47;53,53
+72;Kazakhstan;46,4;53,6
+73;Irlande;46,1;53,9
+74;Irak;46,02;53,98
+75;Indonésie;45,93;54,07
+76;Moldavie;45,69;54,31
+77;Soudan;45,46;54,54
+78;Albanie;45,4;54,6
+79;Canada;44,78;55,22
+80;Tunisie;44,69;55,31
+81;Inde;44,41;55,59
+82;Ghana;44,15;55,85
+83;Panama;44,09;55,91
+84;Vietnam;44,09;55,91
+85;Pakistan;42,83;57,17
+86;Philippines;42,64;57,36
+87;Bosnie Herzégovine;42,46;57,54
+88;Sri Lanka;42,17;57,83
+89;Palestine;41,18;58,82
+90;Jordan;40,74;59,26
+91;Macédoine du Nord;40,74;59,26
+92;Kosovo (territoire contesté);40,2;59,8
+93;Turquie;40,16;59,84
+94;Malte;40,02;59,98
+95;Russie;39,7;60,3
+96;Serbie;38,48;61,52
+97;Thaïlande;38,32;61,68
+98;Allemagne;38,04;61,96
+99;Népal;37,51;62,49
+100;Bulgarie;37,49;62,51
+101;Lettonie;37,33;62,67
+102;Monténégro;36,9;63,1
+103;Espagne;35,77;64,23
+104;Luxembourg;34,03;65,97
+105;Hongrie;33,78;66,22
+106;Lituanie;33,2;66,8
+107;Roumanie;32,81;67,19
+108;Koweit;32,64;67,36
+109;Chypre;32,56;67,44
+110;Norvège;32,46;67,54
+111;Israël;32,2;67,8
+112;Cuba;32,18;67,82
+113;Azerbaïdjan;31,7;68,3
+114;Slovaquie;31,33;68,67
+115;Ouzbékistan;31,3;68,7
+116;Portugal;30,65;69,35
+117;Pologne;29,19;70,81
+118;Brunei;29,17;70,83
+119;L'Autriche;27,65;72,35
+120;Rwanda;27,27;72,73
+121;République Tchèque;26,85;73,15
+122;Danemark;26,64;73,36
+123;Finlande;26,53;73,47
+124;Géorgie;26,24;73,76
+125;Pays-Bas;26,15;73,85
+126;Croatie;26,06;73,94
+127;Chine;25,76;74,24
+128;Corée du Sud;25,34;74,66
+129;Islande;25,01;74,99
+130;Suisse;24,87;75,13
+131;Monaco;24,7;75,3
+132;Estonie;24,47;75,53
+133;Arabie Saoudite;24,29;75,71
+134;La Slovénie;24,24;75,76
+135;Bahreïn;24,17;75,83
+136;Singapour;23,1;76,9
+137;Japon;22,89;77,11
+138;Hong Kong (Chine);21,69;78,31
+139;Arménie;21,6;78,4
+140;Oman;19,64;80,36
+141;Isle Of Man;17,95;82,05
+142;Taïwan;16,11;83,89
+143;Emirats Arabes Unis;14,64;85,36
+144;Qatar;14,28;85,72
